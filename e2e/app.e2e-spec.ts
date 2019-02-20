@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('cms-angular5-firebase App', () => {
+describe('loungetravels App', () => {
   let page: AppPage;
 
   beforeEach(() => {
